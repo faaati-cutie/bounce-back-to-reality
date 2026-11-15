@@ -1,0 +1,87 @@
+
+Full message
+so i let you full access to my pc, i want you to make a perfect horror game that contains
+You are a person who suffers from sleep maintenance insomnia. You are someone who falls asleep normally, wakes up repeatedly throughout the night, falls asleep again but wakes up an hour or so later, and experiences this almost every night.
+
+
+
+You always have 3 dreams that are related to each other. One completes the next. In each dream, you live an adventure in a different place.
+
+
+
+Cut Scene - In your apartment:
+
+
+
+You are doing your normal night routine: brush your teeth, organize tomorrow's clothes, and the last thing before you get into bed is checking your diary.
+
+
+
+But tonight, you find a note in your diary that you didn't write. The note says:
+
+« Tonight is a whole different night. If I don't solve tonight's dreams, I won't ever wake up »
+
+
+
+Then you say: « WHAT! I didn't write this » (shock).
+
+
+
+Your phone alarm rings: it is time to sleep.
+
+
+
+His First Dream:
+
+
+
+You get into bed, relax, and shut your eyes.
+
+
+
+Dream N°1 - The Library
+
+
+
+Place: Library
+
+Danger: Blind monster, but hears every sound. "Better be silent"
+
+
+
+He finds himself standing in the middle of a library, right in front of a table where there is a note that says: « Don't make a sound, you don't want him to hear you, shhh »
+
+
+
+Kevin: Where am I? How did I get here? And what is this? (referring to the note on the table)
+
+
+
+He takes the note and reads it, and finds a flashlight (the library is dark).
+
+
+
+Closed exit door with a lock (maze of bookshelves), some of them fell in the ground and the books are everywhere.
+
+
+
+About the exit door:
+
+Need to gather books that glow under the light of the flashlight.
+The books have a number on their cover. The numbers are the code of the lock.
+The books together make a drawing which gives you the right order of the numbers... (put them together)
+
+
+Difficulties:
+
+Creaking of the wood floor
+Splash of water
+Need to search for a ladder to get a book (once you put the ladder, escape, it makes a sound)
+
+
+How to hide:
+
+When the monster is near, a secret entrance appears so you can hide.
+
+1. Geometry and Modeling (Low-Poly Aesthetics)Simplified Meshes: Objects are constructed with a relatively low polygon count. Instead of smooth, high-resolution curves, elements like the steering wheel, A-pillar, and side mirror feature visible, sharp edges and angular silhouettes.   Minimalist Interior Detailing: Complex mechanical parts (such as dashboard buttons, air vents, and door trim) are either simplified into blocky, extruded shapes or represented by basic geometric cutouts rather than individually modeled 3D components.   2. Textures and MaterialsFlat & Low-Resolution Shading: Rather than using high-resolution, photorealistic PBR (Physically Based Rendering) textures with intricate micro-details like leather grain or brushed metal, the surfaces rely on muted, uniform colors and subtle noise maps.   Emissive UI Elements: Functional details like the dashboard gauges are rendered as high-contrast, glowing 2D textures ("emissive" materials) set into simple recessed boxes, making them easy to read while preserving the retro, early-2000s simulation feel.   3. Lighting and Atmosphere ("Retro-Modern" Touch)Volumetric & Distance Fog: While the models look like they belong to an older era of gaming, the lighting uses modern engine capabilities. A heavy layer of warm, hazy distance fog obscures the far horizon, serving both to optimize performance and to build tension and isolation.   Soft Global Illumination & Bloom: Sunlight filtering through the trees casts soft, diffused shadows across the car's interior. Subtle post-processing effects—such as bloom around the bright dashboard lights and slight color grading—tie the simple geometry together into a cohesive, moody scene.   4. Why Indie Developers Use This StyleAtmosphere Over Realism: In driving and horror-adjacent games, slightly abstract, low-poly visuals trigger the player's imagination, often making environments feel more unsettling or dreamlike than hyper-realistic graphics.Solo/Small Team Feasibility: A single developer can model an entire car and miles of highway without spending months sculpting high-poly assets.High Performance: Low polygon counts and simple textures ensure smooth frame rates even on lower-end PCs, while modern lighting keeps the game visually appealing
+ try your best i dont want to switch to claude because i believe in your potential
